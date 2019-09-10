@@ -1,0 +1,33 @@
+
+.texton{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0%;
+    text-orientation: sideways;
+}
+header{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.imagen{
+    
+    height: 250px;
+    width: 350px;
+}
+h1{
+    text-align: center
+    
+}
+footer{
+    display: block;
+    clear: both;
+    width: 100%;
+    position: relative;
+    background-color: black;
+    text-align: center;
+    margin-top: 75px;
+
+}
+div.card-body{
+    text-align: center;
+}
